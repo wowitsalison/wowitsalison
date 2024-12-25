@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Alison Wilkins
 
-<!--
-**wowitsalison/wowitsalison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Student at Sam Houston State University (Graduating May 2025)*  
+*Looking for work!*
 
-Here are some ideas to get you started:
+[![Linkedin: alisonfwilkins](https://img.shields.io/badge/-alisonfwilkins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisonfwilkins)](https://www.linkedin.com/in/alisonfwilkins/)
+![GitHub followers](https://img.shields.io/github/followers/wowitsalison?label=Follow&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**CURRENTLY WORKING ON:**
+- A chess data analysis project
+- A new website for my student organization
+
+**CURRENTLY LEARNING:**
+- [Taipy](https://taipy.io)
+- HTML parsing/web scraping
+- Front-end web design and development
+
+**FAVORITE PROJECT TYPES:**
+- Data analysis
+- Web development
+- Database (design/development/interactions)
+- Anything related to chess!
