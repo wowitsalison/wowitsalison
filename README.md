@@ -8,12 +8,12 @@
 
 **CURRENTLY WORKING ON:**
 - A chess data analysis project
-- A new website for my student organization
+- A basic toy language compiler
 
 **CURRENTLY LEARNING:**
 - [Taipy](https://taipy.io)
 - HTML parsing/web scraping
-- Front-end web design and development
+- Compiler design
 
 **FAVORITE PROJECT TYPES:**
 - Data analysis
