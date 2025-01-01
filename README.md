@@ -8,7 +8,7 @@
 
 **CURRENTLY WORKING ON:**
 - A chess data analysis project
-- A basic toy language compiler
+- A basic custom language compiler
 
 **CURRENTLY LEARNING:**
 - [Taipy](https://taipy.io)
