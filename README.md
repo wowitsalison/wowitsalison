@@ -7,8 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/wowitsalison?label=Follow&style=social)
 
 **CURRENTLY WORKING ON:**
+- [A basic custom language compiler](https://github.com/wowitsalison/PseudoLang_Compiler)
 - A chess data analysis project
-- A basic custom language compiler
 
 **CURRENTLY LEARNING:**
 - [Taipy](https://taipy.io)
