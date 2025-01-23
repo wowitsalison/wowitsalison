@@ -13,7 +13,6 @@
 **CURRENTLY LEARNING:**
 - [Taipy](https://taipy.io)
 - HTML parsing/web scraping
-- Compiler design
 
 **FAVORITE PROJECT TYPES:**
 - Data analysis
