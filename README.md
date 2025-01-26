@@ -7,8 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/wowitsalison?label=Follow&style=social)
 
 **CURRENTLY WORKING ON:**
-- [A chess engine](https://github.com/wowitsalison/BigBean_ChessEngine)
-- A chess data analysis project
+- A [chess engine](https://github.com/wowitsalison/BigBean_ChessEngine) written in C++
+- A chess data analysis project written in Python
 
 **CURRENTLY LEARNING:**
 - [Taipy](https://taipy.io)
