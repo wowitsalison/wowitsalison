@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/wowitsalison?label=Follow&style=social)
 
 **CURRENTLY WORKING ON:**
-- A chess engine
+- [A chess engine](https://github.com/wowitsalison/BigBean_ChessEngine)
 - A chess data analysis project
 
 **CURRENTLY LEARNING:**
