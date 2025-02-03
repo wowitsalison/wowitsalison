@@ -8,11 +8,11 @@
 
 **CURRENTLY WORKING ON:**
 - A [chess engine](https://github.com/wowitsalison/BigBean_ChessEngine) written in C++
-- A chess data analysis project written in Python
+- A MTG card price tracker
 
 **CURRENTLY LEARNING:**
 - [Taipy](https://taipy.io)
-- HTML parsing/web scraping
+- Database/web development integration
 
 **FAVORITE PROJECT TYPES:**
 - Data analysis
