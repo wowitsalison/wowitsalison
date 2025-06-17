@@ -11,7 +11,7 @@
 - A MTG card price tracker
 
 **CURRENTLY LEARNING:**
-- [Taipy](https://taipy.io)
+- Docker testing
 - Database/web development integration
 
 **FAVORITE PROJECT TYPES:**
