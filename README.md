@@ -12,8 +12,8 @@
 - A MTG card price tracker
 
 **CURRENTLY LEARNING:**
-- Docker testing
 - Database/web development integration
+- The ins and outs of Linux
 
 **FAVORITE PROJECT TYPES:**
 - Data analysis
