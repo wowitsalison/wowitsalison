@@ -1,6 +1,6 @@
 ## Hi, I'm Alison Wilkins
 
-*Student at Sam Houston State University (Graduating May 2025)*  
+*Computer Science graduate (May 2025)*  
 *Looking for work!*
 
 [![Linkedin: alisonfwilkins](https://img.shields.io/badge/-alisonfwilkins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisonfwilkins)](https://www.linkedin.com/in/alisonfwilkins/)
@@ -8,6 +8,7 @@
 
 **CURRENTLY WORKING ON:**
 - A [chess engine](https://github.com/wowitsalison/BigBean_ChessEngine) written in C++
+- A custom Linux Mint theme
 - A MTG card price tracker
 
 **CURRENTLY LEARNING:**
