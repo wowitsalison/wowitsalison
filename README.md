@@ -8,8 +8,8 @@
 
 **CURRENTLY WORKING ON:**
 - A [chess engine](https://github.com/wowitsalison/BigBean_ChessEngine) written in C++
-- A custom Linux Mint theme
 - A MTG card price tracker
+- Data analysis projects for work
 
 **CURRENTLY LEARNING:**
 - Database/web development integration
