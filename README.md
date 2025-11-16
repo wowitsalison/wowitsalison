@@ -1,6 +1,6 @@
 ## Hi, I'm Alison Wilkins
 
-*Investigative Data Analyst - Contract Work
+*Investigative Data Analyst (Contract)*
 *Computer Science graduate (May 2025)*  
 *Looking for work!*
 
