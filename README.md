@@ -9,7 +9,7 @@
 
 **CURRENTLY WORKING ON:**
 - A [chess engine](https://github.com/wowitsalison/BigBean_ChessEngine) written in C++
-- A [custom Firefox-based web browser](https:/github.com/wowitsalison/lattice-browser)
+- A [custom Firefox-based web browser](https://github.com/wowitsalison/lattice-browser)
 - Data analysis projects for work
 
 **CURRENTLY LEARNING:**
