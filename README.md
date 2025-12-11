@@ -12,10 +12,6 @@
 - A [custom Firefox-based web browser](https://github.com/wowitsalison/lattice-browser)
 - Data analysis projects for work
 
-**CURRENTLY LEARNING:**
-- Database/web development integration
-- The ins and outs of Linux
-
 **FAVORITE PROJECT TYPES:**
 - Data analysis
 - Web development
